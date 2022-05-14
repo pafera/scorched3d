@@ -1,0 +1,4 @@
+ModelRenderer.o: ../graph/ModelRenderer.cpp /usr/include/stdc-predef.h \
+ ../../client/graph/ModelRenderer.h
+/usr/include/stdc-predef.h:
+../../client/graph/ModelRenderer.h:

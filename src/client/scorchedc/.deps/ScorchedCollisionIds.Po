@@ -1,0 +1,4 @@
+ScorchedCollisionIds.o: ../../common/engine/ScorchedCollisionIds.cpp \
+ /usr/include/stdc-predef.h ../../common/engine/ScorchedCollisionIds.h
+/usr/include/stdc-predef.h:
+../../common/engine/ScorchedCollisionIds.h:

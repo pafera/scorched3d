@@ -1,0 +1,4 @@
+EventHandlerDataBasePGSQL.o: \
+ ../../common/events/EventHandlerDataBasePGSQL.cpp \
+ /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:

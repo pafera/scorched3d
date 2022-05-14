@@ -1,0 +1,4 @@
+GLTextureBase.o: ../GLEXT/GLTextureBase.cpp /usr/include/stdc-predef.h \
+ ../../client/GLEXT/GLTextureBase.h
+/usr/include/stdc-predef.h:
+../../client/GLEXT/GLTextureBase.h:

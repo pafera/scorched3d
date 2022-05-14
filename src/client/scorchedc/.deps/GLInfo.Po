@@ -1,0 +1,4 @@
+GLInfo.o: ../GLEXT/GLInfo.cpp /usr/include/stdc-predef.h \
+ ../../client/GLEXT/GLInfo.h
+/usr/include/stdc-predef.h:
+../../client/GLEXT/GLInfo.h:

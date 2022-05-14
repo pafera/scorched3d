@@ -1,0 +1,4 @@
+GameStateStimulusI.o: ../../common/engine/GameStateStimulusI.cpp \
+ /usr/include/stdc-predef.h ../../common/engine/GameStateStimulusI.h
+/usr/include/stdc-predef.h:
+../../common/engine/GameStateStimulusI.h:

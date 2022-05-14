@@ -1,0 +1,4 @@
+PlayingSoundSource.o: ../sound/PlayingSoundSource.cpp \
+ /usr/include/stdc-predef.h ../../client/sound/PlayingSoundSource.h
+/usr/include/stdc-predef.h:
+../../client/sound/PlayingSoundSource.h:

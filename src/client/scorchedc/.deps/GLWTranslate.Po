@@ -1,0 +1,4 @@
+GLWTranslate.o: ../GLW/GLWTranslate.cpp /usr/include/stdc-predef.h \
+ ../../client/GLW/GLWTranslate.h
+/usr/include/stdc-predef.h:
+../../client/GLW/GLWTranslate.h:
